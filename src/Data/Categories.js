@@ -4,7 +4,7 @@ const Categories = [
     value: 9,
   },
   { category: "Books", value: 10 },
-  { category: "Films", value: 11 },
+  { category: "Filming", value: 11 },
   { category: "Music", value: 12 },
   { category: "Musicals and Theaters", value: 13 },
   { category: "Television", value: 14 },
